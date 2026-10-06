@@ -1,0 +1,46 @@
+{
+  "name": "youtube-thumbnail-studio",
+  "description": "A Claude Code and Codex skill that works like a thumbnail studio: strategist, feed research, art director, brief, AI artist, retoucher, typographer and CTR QA for high-click YouTube thumbnails and Shorts covers. Images are generated through the Woso MCP connector (Nano Banana Pro, GPT Image 2.5, Seedream, Topaz upscale).",
+  "version": "1.0.0",
+  "author": {
+    "name": "[AUTHOR]",
+    "url": "https://github.com/[OWNER]"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/[OWNER]/youtube-thumbnail-studio",
+  "keywords": [
+    "youtube",
+    "thumbnails",
+    "youtube-thumbnail",
+    "ctr",
+    "youtube-shorts",
+    "claude-skills",
+    "codex-skills",
+    "mcp",
+    "nano-banana",
+    "ai-image-generation",
+    "creator-economy"
+  ],
+  "repository": "https://github.com/[OWNER]/youtube-thumbnail-studio",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "YouTube Thumbnail Studio",
+    "shortDescription": "High-CTR YouTube thumbnails, brief first \u2014 generated through Woso MCP.",
+    "longDescription": "A Claude Code and Codex skill that works like a thumbnail studio: strategist, feed research, art director, brief, AI artist, retoucher, typographer and CTR QA for high-click YouTube thumbnails and Shorts covers. Images are generated through the Woso MCP connector (Nano Banana Pro, GPT Image 2.5, Seedream, Topaz upscale).",
+    "developerName": "[AUTHOR]",
+    "category": "Design",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/[OWNER]/youtube-thumbnail-studio",
+    "defaultPrompt": [
+      "Make 3 high-CTR thumbnail concepts for my next video.",
+      "Write a thumbnail brief before we generate anything.",
+      "Check my thumbnail at feed size against real competitors."
+    ],
+    "brandColor": "#FF3D3D",
+    "composerIcon": "./assets/icon.svg"
+  }
+}
