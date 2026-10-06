@@ -3,11 +3,11 @@
   "description": "A Claude Code and Codex skill that works like a thumbnail studio: strategist, feed research, art director, brief, AI artist, retoucher, typographer and CTR QA for high-click YouTube thumbnails and Shorts covers. Images are generated through the Woso MCP connector (Nano Banana Pro, GPT Image 2.5, Seedream, Topaz upscale).",
   "version": "1.0.0",
   "author": {
-    "name": "[AUTHOR]",
-    "url": "https://github.com/[OWNER]"
+    "name": "Lovedevandgames",
+    "url": "https://github.com/Lovedevandgames"
   },
   "license": "MIT",
-  "homepage": "https://github.com/[OWNER]/youtube-thumbnail-studio",
+  "homepage": "https://github.com/Lovedevandgames/youtube-thumbnail-studio",
   "keywords": [
     "youtube",
     "thumbnails",

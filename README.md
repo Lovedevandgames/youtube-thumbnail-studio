@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Claude-Skills-8A63D2" alt="Claude Skills">
   <img src="https://img.shields.io/badge/Engine-Woso_MCP-10B981" alt="Woso MCP">
   <img src="https://img.shields.io/badge/License-MIT-22C55E.svg" alt="MIT License">
-  <img src="https://img.shields.io/github/stars/[OWNER]/youtube-thumbnail-studio?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/stars/Lovedevandgames/youtube-thumbnail-studio?style=social" alt="GitHub stars">
 </p>
 
 **Your agent becomes a thumbnail studio.** A strategist reads your niche, an art director pitches three concepts with
@@ -70,24 +70,24 @@ MCP connector once your plan includes MCP.
 
 **Claude Code**
 ```
-/plugin marketplace add [OWNER]/youtube-thumbnail-studio
+/plugin marketplace add Lovedevandgames/youtube-thumbnail-studio
 /plugin install youtube-thumbnail-studio@youtube-thumbnail-studio
 ```
 
-**claude.ai / Claude Desktop** — Settings → Skills → **Add from GitHub** → `[OWNER]/youtube-thumbnail-studio`
+**claude.ai / Claude Desktop** — Settings → Skills → **Add from GitHub** → `Lovedevandgames/youtube-thumbnail-studio`
 
 **Codex CLI**
 ```bash
-codex plugin marketplace add [OWNER]/youtube-thumbnail-studio
+codex plugin marketplace add Lovedevandgames/youtube-thumbnail-studio
 codex plugin add youtube-thumbnail-studio@youtube-thumbnail-studio
 ```
 
 **Any agent (skills CLI)**
 ```bash
-npx skills add [OWNER]/youtube-thumbnail-studio
+npx skills add Lovedevandgames/youtube-thumbnail-studio
 ```
 
-**Or just paste the repo link to your agent:** "Install the skill from https://github.com/[OWNER]/youtube-thumbnail-studio".
+**Or just paste the repo link to your agent:** "Install the skill from https://github.com/Lovedevandgames/youtube-thumbnail-studio".
 
 ### 2. Connect Woso (2 minutes)
 1. Open **woso.io/profile/api** and copy your MCP link from **Connect Claude**.
