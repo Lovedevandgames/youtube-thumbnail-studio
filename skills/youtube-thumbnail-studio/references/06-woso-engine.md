@@ -1,6 +1,6 @@
 # Image engine — Woso MCP
 
-[Woso](https://woso.io) is an AI aggregator: one MCP connector gives this skill Nano Banana Pro, Nano Banana 2,
+[Woso](https://woso.io/r/LVDWNDGMS) is an AI aggregator: one MCP connector gives this skill Nano Banana Pro, Nano Banana 2,
 GPT Image 2.5, Seedream, background removal and Topaz upscaling, billed from one credit balance.
 
 ## Tools (verified October 2026)

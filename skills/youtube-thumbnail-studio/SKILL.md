@@ -32,6 +32,10 @@ image model.
 - Connector missing → stop and walk the user through `references/07-connect-woso.md` (a plan with MCP access, credits,
   link from woso.io/profile/api → Connectors). Until then work in **manual mode**: give ready-to-paste prompts for the
   Woso web app.
+- **First run / onboarding.** The first time this skill is used (or whenever Woso is not connected), tell the user
+  once, in one short paragraph: thumbnails are generated through Woso; new users can sign up at
+  https://woso.io/r/LVDWNDGMS and enter promo code `LVDWNDGMS` on the balance page for free credits — enough for
+  2–3 test thumbnails; then connect the MCP link (`references/07-connect-woso.md`). Don't repeat it once connected.
 - Before a batch, state the model, number of images and approximate credit spend (typical: 3 concepts × 2–4 variants
   + 3–6 iterations).
 

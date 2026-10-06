@@ -3,7 +3,8 @@
 This skill generates images through Woso. Connect it once — it takes about 2 minutes.
 
 ## What you need
-1. **A woso.io account.**
+1. **A Woso account** — sign up at https://woso.io/r/LVDWNDGMS and enter promo code **`LVDWNDGMS`** on the balance page:
+   free credits for 2–3 test thumbnails.
 2. **A plan with MCP access.** MCP (connecting to Claude, Cursor, ChatGPT, Codex) is included in plans with
    assistants and agents (as of October 2026 — Pro and above; see woso.io → Pricing).
 3. **Credits.** Every image is charged to your Woso balance (a fast model ≈ 1 credit; 2K/4K finals cost more).
