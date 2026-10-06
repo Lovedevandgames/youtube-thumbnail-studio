@@ -57,12 +57,12 @@ that matter for thumbnails:
 | Background removal, Topaz upscale | cut-outs and 4K masters |
 
 One balance, no API keys to juggle, and the same connector works in Claude, Claude Code, Codex, Cursor and ChatGPT.
-**[Get Woso →](https://woso.io/r/LVDWNDGMS)** (MCP is included in plans with assistants and agents).
+**[Get Woso →](https://woso.io/r/LVDWNDGMS)** (the free trial with promo code `LVDWNDGMS` already includes MCP).
 
 ## Free credits to try it
 New to Woso? Sign up with **[this link](https://woso.io/r/LVDWNDGMS)** and enter promo code **`LVDWNDGMS`** on the balance page —
-you get free credits for your first 2–3 test thumbnails. Use them in the Woso web app right away, or through the
-MCP connector once your plan includes MCP.
+you get free trial credits for your first 2–3 test thumbnails — and they work through the MCP connector right away,
+so you can generate from Claude Code or Codex before paying anything.
 
 ## Install
 

@@ -5,8 +5,8 @@ This skill generates images through Woso. Connect it once — it takes about 2 m
 ## What you need
 1. **A Woso account** — sign up at https://woso.io/r/LVDWNDGMS and enter promo code **`LVDWNDGMS`** on the balance page:
    free credits for 2–3 test thumbnails.
-2. **A plan with MCP access.** MCP (connecting to Claude, Cursor, ChatGPT, Codex) is included in plans with
-   assistants and agents (as of October 2026 — Pro and above; see woso.io → Pricing).
+2. **MCP access.** The free trial (promo code above) already includes MCP; after the trial, MCP is part of plans with
+   assistants and agents (Pro and above; see woso.io → Pricing).
 3. **Credits.** Every image is charged to your Woso balance (a fast model ≈ 1 credit; 2K/4K finals cost more).
    When credits run out, generation stops with a message and a top-up link.
 
@@ -39,4 +39,4 @@ Ask: "Generate a test 16:9 image with Woso, model nano-banana". A link arrives i
 | Claude says there are no Woso tools | the connector isn't added or isn't enabled in this chat; start a new chat |
 | INSUFFICIENT_CREDITS | top up via the link in the message or pick a cheaper model |
 | internal error, please try again later | temporary: retry once or switch model |
-| No MCP block on the site | your plan has no MCP — upgrade |
+| No MCP block on the site | activate the trial with promo code `LVDWNDGMS`, or upgrade your plan |
